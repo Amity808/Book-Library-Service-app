@@ -12,7 +12,7 @@ This project is built for Book Libray Backend Service
 
 ## Tech Stack
 
-**Client:** Python, JWT, Pydantic
+**Client:** Python, JWT, Pydantic, SQL
 
 **Server:** Uvicorn
 
